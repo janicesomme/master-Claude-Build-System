@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Worktrees (these are separate git checkouts)
+.worktrees/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Supabase
+.supabase/
+
+# Keep specs but ignore generated reports during development
+# (uncomment if you don't want to commit reports)
+# specs/*/qa-report.md
+# specs/*/rls-report.md
+# specs/*/HANDOFF.md
