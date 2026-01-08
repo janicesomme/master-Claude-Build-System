@@ -92,19 +92,19 @@ If project-brief.md exists, greet the user with current project status and ask w
 
 ## Skills Loaded
 
-@.claude/skills/n8n-patterns.md
-@.claude/skills/supabase-patterns.md
-@.claude/skills/rls-testing.md
-@.claude/skills/client-deliverables.md
+@claude/skills/n8n-patterns.md
+@claude/skills/supabase-patterns.md
+@claude/skills/rls-testing.md
+@claude/skills/client-deliverables.md
 
 ## Reference Documents (Load Only When Needed)
 
 These contain deep context for specific task types. Only read when working on that task:
-- API development: @.claude/reference/api-development.md
-- Frontend components: @.claude/reference/frontend-components.md
-- Database design: @.claude/reference/database-design.md
-- n8n workflows: @.claude/reference/n8n-workflows.md
-- Deployment: @.claude/reference/deployment.md
+- API development: @claude/reference/api-development.md
+- Frontend components: @claude/reference/frontend-components.md
+- Database design: @claude/reference/database-design.md
+- n8n workflows: @claude/reference/n8n-workflows.md
+- Deployment: @claude/reference/deployment.md
 
 ## Documentation Standards
 
